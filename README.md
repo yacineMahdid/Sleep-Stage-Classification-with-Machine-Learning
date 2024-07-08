@@ -28,3 +28,12 @@ The data comes from this study and is called PhysioNet: [PhysioBank, PhysioToolk
 
 ### How is Data Gathered?
 
+### What is the raw data?
+
+### How we Processed the raw data
+
+### What are our features?
+
+### Classification Methodology
+
+### Results?
